@@ -6,8 +6,10 @@ Corona advice system
 THEAM-Life in pandemic
 
 Our project “Corona advice system” is a new way to tackle this problem among the patients who cant distinguish between COVID-19 and other diseases and can't decide whether to take the test for it or not. 
+
 Video Link :
 https://drive.google.com/file/d/1pBBxJSXpVeyULYWBS-TYUsJTIijMrX02/view?usp=sharing
+
 Presentation Link :
 https://drive.google.com/file/d/1cuf29_QWaKUheBcYu5nD7OtoEMa_Npis/view?usp=sharing
 
